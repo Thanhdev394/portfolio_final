@@ -43,7 +43,7 @@
 @font-face
 {
     font-family: 'UTM Micra';
-    src: url('fonts/UTM-Micra.ttf') format('truetype');
+    src: url('fonts/utm-micra.ttf') format('truetype');
 }
 * {
     margin: 0;
